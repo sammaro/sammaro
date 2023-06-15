@@ -1,15 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Sam</h1>
 <h3 align="center">👨‍🎓 A passionate developer from Argentina</h3>
 
-<a href="https://github.com/sammaro/sammaro.github.io">
-  <img
-    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-    alt="Sammaro's GitHub Page"
-    align="right"
-    width="230"
-  />
-</a>
-
 <p align="left">
 
 ```ts
