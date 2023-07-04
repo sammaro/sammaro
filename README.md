@@ -20,7 +20,7 @@ export default () => ({
     },
     databases: ['mongodb', 'postgresql', 'redis', 'mysql', 'sqlserver'],
     devops: ['docker', 'jenkins', 'github actions'],
-    tools: ['git', 'github', 'gitlab', 'redis'],
+    tools: ['git', 'github', 'gitlab', 'redis', postman],
     misc: ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux'],
     architecture: ['SPA', 'MVC', 'Serverless', 'microservices'],
   }
@@ -50,12 +50,6 @@ export default () => ({
     <img
       src="https://img.shields.io/github/followers/sammaro.svg?label=GitHub&style=social"
       alt="Sammaro's GitHub"
-    />
-  </a>
-  <a href="https://www.behance.net/marcelosamuel">
-    <img
-      src="https://img.shields.io/badge/Sammaro-blue?style=flat-square&logo=behance&logoColor=white"
-      alt="Sammaro's Behance"
     />
   </a>
   <a href="https://sammaro.github.io">
