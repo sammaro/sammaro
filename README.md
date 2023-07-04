@@ -34,12 +34,6 @@ export default () => ({
 <h3 align="left">🤝🏻 Connect with Me:</h3>
 
 <p align="center">
-  <a href="https://github.com/sammaro">
-    <img
-      src="https://visitor-badge.laobi.icu/badge?page_id=sammaro"
-      alt="sammaro"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/marcelo-samuel/">
     <img
       src="https://img.shields.io/badge/Sammaro-blue?style=flat-square&logo=Linkedin&logoColor=white"
