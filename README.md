@@ -20,7 +20,7 @@ export default () => ({
     },
     databases: ['mongodb', 'postgresql', 'redis', 'mysql', 'sqlserver'],
     devops: ['docker', 'jenkins', 'github actions'],
-    tools: ['git', 'github', 'gitlab', 'redis', postman],
+    tools: ['git', 'github', 'gitlab', 'redis', 'postman'],
     misc: ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux'],
     architecture: ['SPA', 'MVC', 'Serverless', 'microservices'],
   }
