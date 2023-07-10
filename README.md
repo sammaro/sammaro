@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Sam</h1>
-<h3 align="center">👨 A developer from Argentina</h3>
+<h1 align="center">👋 Hi there, I'm Sam 🇦🇷</h1>
 
 <p align="left">
 
