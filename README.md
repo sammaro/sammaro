@@ -39,12 +39,6 @@ export default () => ({
       alt="LinkedIn Sammaro"
     />
   </a>
-  <a href="https://github.com/sammaro">
-    <img
-      src="https://img.shields.io/github/followers/sammaro.svg?label=GitHub&style=social"
-      alt="Sammaro's GitHub"
-    />
-  </a>
   <a href="https://sammaro.github.io">
     <img
       src="https://img.shields.io/website?url=https%3A%2F%2Fsammaro.github.io"
