@@ -30,17 +30,10 @@ export default () => ({
 
 <hr>
 
-<h3 align="left">🤝🏻 Connect with Me:</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcelo-samuel/">
-    <img
-      src="https://img.shields.io/badge/Sammaro-blue?style=flat-square&logo=Linkedin&logoColor=white"
-      alt="LinkedIn Sammaro"
-    />
-  </a>
+<p>
   <a href="https://sammaro.github.io">
     <img
+      align="right"
       src="https://img.shields.io/website?url=https%3A%2F%2Fsammaro.github.io"
       alt="Sammaro's GitHub Page"
     />
