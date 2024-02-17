@@ -37,6 +37,11 @@ export default () => ({
       alt="Sammaro's GitHub Page"
     />
   </a>
+  <img
+    align="right"
+    src="https://visitor-badge.laobi.icu/badge?page_id=sammaro"
+    alt="sammaro"
+  />
 </p>
 
 ⭐️ From [sammaro](https://github.com/sammaro)
