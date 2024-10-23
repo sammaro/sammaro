@@ -44,7 +44,13 @@ export default () => ({
   />
 </p>
 
-⭐️ From [sammaro](https://github.com/sammaro)
+
 
 ![](https://github-readme-stats-samaro.vercel.app/api/top-langs?username=sammaro&layout=compact&langs_count=8&locale=en&theme=github)
 ![](https://github-readme-stats-samaro.vercel.app/api?username=sammaro&show_icons=true&count_private=true&line_height=24&locale=en&theme=github)
+
+> Provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
+<hr />
+
+⭐️ From [sammaro](https://github.com/sammaro)
