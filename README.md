@@ -27,7 +27,7 @@ export default () => ({
 <hr>
 
 <p>
-  <a href="https://sammaro.github.io">
+  <a href="https://sammaro.github.io" target="_blank">
     <img
       align="right"
       src="https://img.shields.io/website?url=https%3A%2F%2Fsammaro.github.io"
