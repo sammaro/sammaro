@@ -34,7 +34,7 @@ export default () => ({
       alt="Sammaro's GitHub Page"
     />
   </a>
-  <a href="https://portfolio-minialist-sammaro.vercel.app" target="_blank">
+  <a href="#" target="_blank">
     <img
       align="right"
       src="https://visitor-badge.laobi.icu/badge?page_id=sammaro"
