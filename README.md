@@ -1,31 +1,3 @@
-# 👋 Hi there, I'm Sam 🇦🇷
-
-```ts
-export default () => ({
-  pronouns: 'He' | 'Him',
-  askMeAbout: [
-    'webdev', 'tech', 'music'
-  ],
-  technologies: {
-    frontEnd: {
-      js: ['react', 'nextjs'],
-      css: ['materialize', 'mui', 'bootstrap', 'tailwindcss']
-    },
-    backEnd: {
-      java: ['spring'],
-      js: ['node', 'express'],
-    },
-    databases: ['mongodb', 'postgresql', 'redis', 'mysql', 'sqlserver'],
-    devops: ['docker', 'jenkins', 'github actions'],
-    tools: ['git', 'github', 'gitlab', 'redis', 'postman'],
-    misc: ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux'],
-    architecture: ['SPA', 'MVC', 'Serverless', 'microservices'],
-  }
-});
-```
-
-<hr>
-
 <p>
   <a href="https://sammaro.github.io" target="_blank">
     <img
@@ -51,6 +23,12 @@ export default () => ({
 > Provided by [`GitHub Readme Stats`]
 
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+<hr />
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sammaro&theme=dark)
+> Provided by [`GitHub Readme Streak`]
+
+[`GitHub Readme Streak`]: https://github.com/DenverCoder1/github-readme-streak-stats
 <hr />
 
 ⭐️ [From sammaro](https://github.com/sammaro)
