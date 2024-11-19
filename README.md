@@ -25,10 +25,4 @@
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 <hr />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sammaro&theme=dark)
-> Provided by [`GitHub Readme Streak`]
-
-[`GitHub Readme Streak`]: https://github.com/DenverCoder1/github-readme-streak-stats
-<hr />
-
 ⭐️ [From sammaro](https://github.com/sammaro)
