@@ -9,9 +9,8 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats-samaro.vercel.app/api?username=sammaro&theme=github_dark_dimmed&hide_border=false&count_private=true)<br/>
-![](https://github-readme-stats-samaro.vercel.app/api/top-langs/?username=sammaro&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| ![](https://github-readme-stats-samaro.vercel.app/api?username=sammaro&theme=github_dark_dimmed&hide_border=false&count_private=true) | ![](https://github-readme-stats-samaro.vercel.app/api/top-langs/?username=sammaro&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| --- | ---|
 
 > Provided by [`GitHub Readme Stats`]
 
