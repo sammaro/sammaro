@@ -21,7 +21,8 @@
 <hr />
 
 
-| ![](https://github-readme-stats-samaro.vercel.app/api/top-langs?username=sammaro&layout=compact&theme=github) | ![](https://github-readme-stats-samaro.vercel.app/api?username=sammaro&show_icons=true&count_private=true&line_height=24&locale=en&theme=github) |
+
+| ![](https://github-readme-stats-samaro.vercel.app/api/top-langs?username=sammaro&layout=compact&border_radius=0&border_color=000&bg_color=222&title_color=f00&text_color=fff&show_icons=true&icon_color=ff0&count_private=true&line_height=24&locale=en) | ![](https://github-readme-stats-samaro.vercel.app/api?username=sammaro&layout=compact&border_radius=0&border_color=000&bg_color=222&title_color=f00&text_color=fff&show_icons=true&icon_color=ff0&count_private=true&line_height=24&locale=en) |
 | --- | --- |
 
 
