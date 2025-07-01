@@ -19,6 +19,9 @@
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<picture>
+  <source srcset="https://github-readme-quotes-bay.vercel.app/quote?font=Architect&quoteType=quote-for-the-day&theme=tokyonight" media="(prefers-color-scheme: dark)">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Architect&quoteType=quote-for-the-day&theme=default" alt="Random Dev Quote">
+</picture>
 
 ---
