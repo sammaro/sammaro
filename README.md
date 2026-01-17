@@ -1,4 +1,14 @@
-# Hi there, I'm Sam
+<p>
+  <a href="#" target="_blank">
+    <img
+      align="right"
+      src="https://visitor-badge.laobi.icu/badge?page_id=sammaro"
+      alt="sammaro"
+    />
+  </a>
+  <h1>Hi there, I'm Sam</h1>
+</p>
+
 
 ### Software Engineer | Linux Enthusiast | Maker
 
