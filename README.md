@@ -1,13 +1,30 @@
-<p>
-  Hi! I'm Sam.
-  <a href="#" target="_blank">
-    <img
-      align="right"
-      src="https://visitor-badge.laobi.icu/badge?page_id=sammaro"
-      alt="sammaro"
-    />
-  </a>
-</p>
+# Hi there, I'm Sam
+
+### Software Engineer | Linux Enthusiast | Maker
+
+I'm a **Senior Java Developer** with 10 years of experience building robust applications and nearly 15 years living in the **Linux** ecosystem. I believe in self-hosting, automation, and the craft of building things from the ground up.
+
+---
+
+### What I'm working on
+- **Modern Web & APIs:** Exploring **Rust** with **SurrealDB**, and building frontend solutions with **Next.js** and **Astro**.
+- **The Lab:** Managing a dockerized home lab for everything from S3 local environments (**LocalStack**) to smart home automation.
+- **Cybersecurity:** Brushing up on cyber defense and network security.
+
+### 🛠 Tech Stack & Tools
+- **Languages:** Java (Core & Spring Boot), Python, Rust, JavaScript/TypeScript.
+- **Infrastructure:** Docker, Linux, DevContainers.
+- **Editor:** **Neovim** (LazyVim user) — *terminal centric workflow.*
+- **Databases:** PostgreSQL, Prisma, SurrealDB...
+
+### ⌨️ Hardware & Maker Life
+- **Mechanical Keyboards:** Proud user and builder of custom split keyboards (current favorite: **Lily58**).
+- **3D Printing:** Designing and printing functional parts for my workspace.
+- **Mobile Office:** Currently building a solar-powered workstation for my camper setup.
+
+---
+
+### 📊 Stats & Connectivity
 
 <table>
   <tr>
@@ -33,10 +50,10 @@
 
 ---
 
-### ✍️ Random Dev Quote
-<picture>
-  <source srcset="https://github-readme-quotes-bay.vercel.app/quote?font=Architect&quoteType=quote-for-the-day&theme=tokyonight" media="(prefers-color-scheme: dark)">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Architect&quoteType=quote-for-the-day&theme=default" alt="Random Dev Quote">
-</picture>
+- 🐧 **Linux is my home:** From servers to desktops.
+- ☕ **Java is my craft:** From legacy to the latest LTS.
+- 🏠 **Self-hosting is my philosophy:** Privacy and control first.
 
 ---
+
+*"Building tools that make life easier, one container at a time."*
