@@ -28,7 +28,7 @@ I'm a **Senior Java Developer** with 10 years of experience building robust appl
 - **Databases:** PostgreSQL, Prisma, SurrealDB...
 
 ### ⌨️ Hardware & Maker Life
-- **Mechanical Keyboards:** Proud user and builder of custom split keyboards (current favorite: **Lily58**).
+- **Mechanical Keyboards:** Proud user of custom split keyboards (current favorite: **Corne**).
 - **3D Printing:** Designing and printing functional parts for my workspace.
 - **Mobile Office:** Currently building a solar-powered workstation for my camper setup.
 
